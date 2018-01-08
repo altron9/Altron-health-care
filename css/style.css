@@ -78,12 +78,12 @@ banner
     border-radius: 0px;
 }
 .navbar-default {
-    background-color: RGBA(13, 70, 83, 0.78);
+    background-color: #003563;
     padding: 20px 0;
     transition: all 0.3s;
 }
 .navbar-default {
-    background-color: RGBA(13, 70, 83, 0.78);
+    background-color:#003563;
     border: 0px;
 }
 .navbar {
@@ -302,7 +302,7 @@ doctor team
 testimonial
 ***************************************/
 #testimonial{
-    background-color: #eee;
+    background-color: #f3f8fc;
 }
 .testi-details {
     background: #fff;
@@ -449,7 +449,7 @@ contact us
 footer
 ***************************************/
 #footer{
-	background-color: #325C6A;
+	background-color: #003563;
 }
 .ftr-tle {
     height: 50px;
