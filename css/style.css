@@ -148,7 +148,7 @@ banner
 #banner{
 	background: transparent;
 	background-size: cover;
-	min-height: 300px;
+	/*min-height: 300px;*/
 	position: relative;
 }
 .bg-color{
