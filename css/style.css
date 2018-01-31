@@ -550,3 +550,6 @@ footer
   .home-content-2 h2{margin-bottom:20px !important;clear:both;display:block;}
      #sub-page{height:100px;}
      .navbar-header{float:none !important;}
+     .social-icon a {
+	color: #ffffff;
+}
